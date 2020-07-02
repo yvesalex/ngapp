@@ -4,4 +4,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Go to `https://ngapp-3e625.firebaseapp.com/` to preview the app.
+[Click here](https://ngapp-3e625.firebaseapp.com/) to preview the app.
